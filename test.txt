@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "added by first person"
+=======
+"added by second person"
+>>>>>>> p2
